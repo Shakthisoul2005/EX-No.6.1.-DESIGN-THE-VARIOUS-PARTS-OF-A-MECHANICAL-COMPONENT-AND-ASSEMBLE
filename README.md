@@ -1,4 +1,3 @@
-![Screenshot 2024-12-22 144357](https://github.com/user-attachments/assets/e2967622-1b0e-444a-8fea-a20d26bcf868)# EX-No.6.1. DESIGN THE VARIOUS PARTS OF A MECHANICAL COMPONENT AND ASSEMBLE
 
 ## DATE:
 
